@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-11-03T19:27:33.105Z",
+  "generated_at": "2026-11-04T19:42:08.494Z",
   "updates": [
     {
-      "id": "f4bb3a1259ae",
+      "id": "d5bb9bd9c724",
       "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Potential Designation of Passage of an Accredited Investor Exam To Be Developed by FINRA as Qualifying Natural Persons for Accredited Investor Status",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/C1-2026-20310/potential-designation-of-passage-of-an-accredited-investor-exam-to-be-developed-by-finra-as"
-    },
-    {
-      "id": "3ce5bc832921",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Streamlining Contested Adjudications in Licensing Proceedings",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC, agency, or Commission) is revising the agency's rules of practice and procedure to streamline contested adjudications in NRC licensing proceedings in response to the Accelerating Deployment of Versatile, Advanced Nuclear for Clean Energy Act of 2024 (ADVANCE Act) and Executive Order 14300, Ordering the Reform of the Nuclear Regulatory Commission.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22443/streamlining-contested-adjudications-in-licensing-proceedings"
-    },
-    {
-      "id": "0a983bf72e6c",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Sunshine Act Meetings",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22441/sunshine-act-meetings"
-    },
-    {
-      "id": "3acd6a8c89b1",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Agency Information Collection Activities; Submission to the Office of Management and Budget for Review and Approval; Comment Request; Consolidated Annual Report (CAR) for the Carl D. Perkins Career and Technical Education Act of 2006",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22437/agency-information-collection-activities-submission-to-the-office-of-management-and-budget-for"
-    },
-    {
-      "id": "38f44f033a23",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Privacy Act of 1974; System of Records",
-      "summary": "In accordance with the Privacy Act of 1974, the United States Department of Transportation (DOT) proposes a new system of records titled, \"Department of Transportation, Federal Aviation Administration DOT/FAA 860, Unmanned Aircraft System Beyond Visual Line of Sight Operations--Parts 108/146.\" This system of records allows the FAA to collect, use, and maintain information from operators, manufacturers and Automated D",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22436/privacy-act-of-1974-system-of-records"
-    },
-    {
-      "id": "5d57e87d752e",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Phosphate Fertilizers From the Kingdom of Morocco: Final Results of First Full Sunset Review of the Countervailing Duty Order",
-      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on phosphate fertilizers (fertilizers) from the Kingdom of Morocco (Morocco) would likely to lead to the continuation or recurrence of a countervailable subsidy at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22435/phosphate-fertilizers-from-the-kingdom-of-morocco-final-results-of-first-full-sunset-review-of-the"
-    },
-    {
-      "id": "5155d1735a5f",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Foreign-Trade Zone 168; Application for Subzone; Samsung Electro-Mechanics America, Inc.; Wilmer, Texas",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22434/foreign-trade-zone-168-application-for-subzone-samsung-electro-mechanics-america-inc-wilmer-texas"
-    },
-    {
-      "id": "4c9664f07d0f",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Foreign-Trade Zone 266; Approval of Subzone Status; Tekni-Plex Flexibles LLC (dba TekniPlex Healthcare); Madison, Wisconsin",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22432/foreign-trade-zone-266-approval-of-subzone-status-tekni-plex-flexibles-llc-dba-tekniplex-healthcare"
-    },
-    {
-      "id": "1244e592dc59",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Certain Softwood Lumber Products From Canada: Notice of NAFTA Panel Decision",
-      "summary": "On October 19, 2026, the North American Free Trade Agreement (NAFTA) Secretariat issued a Notice of Final Panel Action. The U.S. Department of Commerce (Commerce) is notifying the public that the NAFTA Binational Panel's final judgment is not in harmony with Commerce's final determination in the countervailing duty (CVD) investigation of certain softwood lumber products (lumber) from Canada, and that Commerce is amen",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22431/certain-softwood-lumber-products-from-canada-notice-of-nafta-panel-decision"
-    },
-    {
-      "id": "37ff65c7d10f",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Foreign-Trade Zone (FTZ) 93; Authorization of Limited Production Activity; Alder SOL Holdings LLC dba StayOnline; (Power Cords); Henderson, North Carolina",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22430/foreign-trade-zone-ftz-93-authorization-of-limited-production-activity-alder-sol-holdings-llc-dba"
-    },
-    {
-      "id": "ad0a066a52c1",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Foreign-Trade Zone (FTZ) 22; Authorization of Production AFC Specialty Coatings Group, LLC; (Polymer or Silicone Coated Fabrics); Lake in the Hills, Illinois",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22429/foreign-trade-zone-ftz-22-authorization-of-production-afc-specialty-coatings-group-llc-polymer-or"
-    },
-    {
-      "id": "8b03bb6b9f9d",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Meeting of National Council on the Humanities",
-      "summary": "Pursuant to the Federal Advisory Committee Act, notice is hereby given that the National Council on the Humanities will meet to advise the Chairman of the National Endowment for the Humanities (NEH) with respect to policies, programs and procedures for carrying out his functions; to review applications for financial assistance under the National Foundation on the Arts and Humanities Act of 1965 and make recommendatio",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22428/meeting-of-national-council-on-the-humanities"
-    },
-    {
-      "id": "b19f7e88ba81",
-      "category": "FDA",
-      "date": "2026-11-03",
-      "title": "Potency Assurance for Cellular and Gene Therapy Products; Guidance for Industry; Availability",
-      "summary": "The Food and Drug Administration (FDA or Agency) is announcing the availability of a final guidance titled \"Potency Assurance for Cellular and Gene Therapy Products.\" The guidance document provides recommendations to help assure the potency of human cellular therapy or gene therapy (CGT) products at all stages of the product lifecycle. FDA is recommending a comprehensive approach to potency assurance of CGT products ",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22427/potency-assurance-for-cellular-and-gene-therapy-products-guidance-for-industry-availability"
-    },
-    {
-      "id": "e8c7df501a72",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Foreign-Trade Zone 102; Approval of Subzone Status; BASF Agricultural Solutions US LLC; Fenton and Palmyra, Missouri",
-      "summary": "Federal Register document (no abstract provided).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22426/foreign-trade-zone-102-approval-of-subzone-status-basf-agricultural-solutions-us-llc-fenton-and"
-    },
-    {
-      "id": "6cac898be2ff",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Greater Atlantic Regional Fisheries Office; Public Hearings",
-      "summary": "NMFS will hold five public hearings in November and December 2026 to solicit input on a potential Secretarial amendment to the Atlantic Sea Scallop Fishery Management Plan. If the Secretary of Commerce determines that such an amendment is warranted, the action would consider allowing permit stacking in the limited access scallop fleet. NMFS is soliciting written scoping comments on this topic.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22425/greater-atlantic-regional-fisheries-office-public-hearings"
-    },
-    {
-      "id": "536e9df1e179",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "National Register of Historic Places; Notification of Pending Nominations and Related Actions",
-      "summary": "The National Park Service is soliciting electronic comments on the significance of properties nominated before October 3, 2026, for listing or related actions in the National Register of Historic Places.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22424/national-register-of-historic-places-notification-of-pending-nominations-and-related-actions"
-    },
-    {
-      "id": "e9da5a6f496e",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "National Register of Historic Places; Notification of Pending Nominations and Related Actions",
-      "summary": "The National Park Service is soliciting electronic comments on the significance of properties nominated before October 17, 2026, for listing or related actions in the National Register of Historic Places.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22423/national-register-of-historic-places-notification-of-pending-nominations-and-related-actions"
-    },
-    {
-      "id": "481ecfb2e832",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "National Register of Historic Places; Notification of Pending Nominations and Related Actions",
-      "summary": "The National Park Service is soliciting electronic comments on the significance of properties nominated before October 10, 2026, for listing or related actions in the National Register of Historic Places.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22422/national-register-of-historic-places-notification-of-pending-nominations-and-related-actions"
-    },
-    {
-      "id": "8c352f694d95",
-      "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "List of Approved Spent Fuel Storage Casks: TN Americas, LLC: Standardized NUHOMS® Horizontal Modular Storage System for Irradiated Nuclear Fuel, Certificate of Compliance No. 1004, Renewed Amendment No. 19",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is confirming the effective date of November 9, 2026, for the direct final rule that was published in the Federal Register on August 26, 2026. This direct final rule amended the TN Americas, LLC Standardized NUHOMS[supreg] Horizontal Modular Storage System for Irradiated Nuclear Fuel listing within the \"List of approved spent fuel storage casks\" to include Amendment No. 19",
+      "date": "2026-11-04",
+      "title": "Treatment of Emergency Amendments: Paycheck Protection Program Liquidity Facility and Paycheck Protection Program Loans",
+      "summary": "The NCUA Board (Board) is issuing a final rule adopting as final the revisions to the capital adequacy rule and the member business lending rule made under an interim final rule (IFR) published in the Federal Register on April 27, 2020.",
       "tags": [
         "Federal Register"
       ],
       "priority": "high",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22421/list-of-approved-spent-fuel-storage-casks-tn-americas-llc-standardized-nuhoms-horizontal-modular"
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22538/treatment-of-emergency-amendments-paycheck-protection-program-liquidity-facility-and-paycheck"
     },
     {
-      "id": "363cc29cb235",
+      "id": "1c0d6d89a61c",
       "category": "LEGIS",
-      "date": "2026-11-03",
-      "title": "Meeting of the Regional Resource Stewardship Council",
-      "summary": "The TVA Regional Resource Stewardship Council (RRSC) will hold a meeting on November 18 and 19, 2026, regarding TVA's natural resources and stewardship matters in the Tennessee Valley.",
+      "date": "2026-11-04",
+      "title": "Member Business Loans; Commercial Lending",
+      "summary": "The NCUA Board (Board) is amending its regulations governing member business loans and commercial lending. This interim final rule eliminates an outdated, transitional provision that is no longer necessary. This action is necessary to reduce regulatory complexity and improve the clarity of the NCUA's regulations. The intended effect is to enhance clarity and simplify compliance for federally insured credit unions (FI",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22537/member-business-loans-commercial-lending"
+    },
+    {
+      "id": "48368c8f7fa1",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Statutory Lien",
+      "summary": "On February 25, 2026, NCUA (or `agency') published a proposed rule to solicit comments on the removal of a provision of NCUA regulations regarding federal credit unions' (FCUs) statutory lien authority. Upon further consideration, and based on the comments received, the Board is issuing this final rule, as proposed, to remove the term, \"except as otherwise provided by law or except as otherwise provided by federal la",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22536/statutory-lien"
+    },
+    {
+      "id": "3344694ed822",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Agency Information Collection Activities; Proposed eCollection eComments Requested; SAFER SKIES State, Local, Tribal, and Territorial Counter-UAS Information Collection",
+      "summary": "The Federal Bureau of Investigation, Department of Justice (DOJ), will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995. The proposed information collection was previously published in the Federal Register on September 1, 2026, 91 FR 56212, allowing a 60-day comment period.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22535/agency-information-collection-activities-proposed-ecollection-ecomments-requested-safer-skies-state"
+    },
+    {
+      "id": "4499473590e0",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Certain Oil Country Tubular Goods From the United Arab Emirates: Preliminary Affirmative Determination of Sales at Less Than Fair Value",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that certain oil country tubular goods (OCTG) from the United Arab Emirates (UAE) are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/03/2026-22420/meeting-of-the-regional-resource-stewardship-council"
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22534/certain-oil-country-tubular-goods-from-the-united-arab-emirates-preliminary-affirmative"
+    },
+    {
+      "id": "dfed28201c58",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Atlantic Highly Migratory Species; Atlantic Highly Migratory Species Southeast Data, Assessment, and Review Workshops Advisory Panel",
+      "summary": "NMFS solicits nominations for the Atlantic Highly Migratory Species (HMS) SouthEast Data, Assessment, and Review (SEDAR) Workshops Advisory Panel, also known as the \"SEDAR Pool.\" The SEDAR Pool is comprised of a group of individuals who, if selected, review data and advise NMFS on the scientific information, data, and models used in stock assessments for oceanic sharks in the Atlantic Ocean, including the Gulf of Ame",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22533/atlantic-highly-migratory-species-atlantic-highly-migratory-species-southeast-data-assessment-and"
+    },
+    {
+      "id": "9d55daf8c58a",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Certain Oil Country Tubular Goods From Taiwan: Preliminary Affirmative Determination of Sales at Less Than Fair Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that certain oil country tubular goods (OCTG) from Taiwan are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22532/certain-oil-country-tubular-goods-from-taiwan-preliminary-affirmative-determination-of-sales-at-less"
+    },
+    {
+      "id": "2c7060e3f359",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Certain Oil Country Tubular Goods From Austria: Preliminary Affirmative Determination of Sales at Less-Than-Fair-Value, Postponement of Final Determination, and Extension of Provisional Measures",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that certain oil country tubular goods (OCTG) from Austria are being, or are likely to be, sold in the United States at less than fair value (LTFV). The period of investigation (POI) is April 1, 2025, through March 31, 2026. Interested parties are invited to comment on this preliminary determination.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22531/certain-oil-country-tubular-goods-from-austria-preliminary-affirmative-determination-of-sales-at"
+    },
+    {
+      "id": "123b9d09c355",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Utility Scale Wind Towers From India, Malaysia, and Spain: Final Results of the Expedited First Sunset Reviews of the Antidumping Duty Orders",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) orders on utility scale wind towers (wind towers) from India, Malaysia, and Spain would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Reviews\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22530/utility-scale-wind-towers-from-india-malaysia-and-spain-final-results-of-the-expedited-first-sunset"
+    },
+    {
+      "id": "4ee42039db77",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Certain Magnesia Carbon Bricks From the People's Republic of China: Final Results of the Expedited Third Sunset Review of the Countervailing Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on Certain Magnesia Carbon Bricks (magnesia bricks) from The People's Republic of China (China) would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22529/certain-magnesia-carbon-bricks-from-the-peoples-republic-of-china-final-results-of-the-expedited"
+    },
+    {
+      "id": "89b41b70d928",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Light-Walled Rectangular Pipe and Tube From the People's Republic of China: Preliminary Results and Rescission, in Part, of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Hangzhou Ailong Metal Products Co., Ltd. (Ailong) failed to establish its eligibility for a separate rate and, therefore, is part of the China-wide entity. The period of review (POR) is August 1, 2024, through July 31, 2025. In addition, we are rescinding the review with respect to 39 companies. Interested parties are invited to comment on these",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22528/light-walled-rectangular-pipe-and-tube-from-the-peoples-republic-of-china-preliminary-results-and"
+    },
+    {
+      "id": "a0d99f6be649",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Utility Scale Wind Towers From India: Final Results of the Expedited First Sunset Review of the Countervailing Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the countervailing duty (CVD) order on utility scale wind towers (wind towers) from India would be likely to lead to continuation or recurrence of countervailable subsidies at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22527/utility-scale-wind-towers-from-india-final-results-of-the-expedited-first-sunset-review-of-the"
+    },
+    {
+      "id": "3bb516f1ae2b",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Certain Steel Nails From the People's Republic of China: Preliminary Results and Rescission, in Part of Antidumping Duty Administrative Review; 2024-2025",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily determines that Shanghai Yueda Nails Co., Ltd., (Shanghai Yueda) and Shanghai Yueda Nails (Chuzhou) Ltd. (Chuzhou Yueda) (collectively, Yueda Nails), an exporter of certain steel nails (nails) from the People's Republic of China (China), made sales of subject merchandise at less than normal value (NV) during the period of review (POR), August 1, 2024, through J",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22526/certain-steel-nails-from-the-peoples-republic-of-china-preliminary-results-and-rescission-in-part-of"
+    },
+    {
+      "id": "feee702243bb",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Ripe Olives From Spain: Preliminary Results and Partial Rescission of Countervailing Duty Administrative Review; 2024",
+      "summary": "The U.S. Department of Commerce (Commerce) preliminarily finds that countervailable subsidies were provided to producers and exporters of ripe olives from Spain. The period of review (POR) is January 1, 2024, through December 31, 2024. In addition, Commerce is rescinding this review, in part, with respect to four companies. Interested parties are invited to comment on these preliminary results.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22525/ripe-olives-from-spain-preliminary-results-and-partial-rescission-of-countervailing-duty"
+    },
+    {
+      "id": "6d0831a2bf4d",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Certain Metal Lockers and Parts Thereof From the People's Republic of China: Final Results of the Expedited First Sunset Review of the Antidumping Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on certain metal lockers and parts thereof (metal lockers) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22524/certain-metal-lockers-and-parts-thereof-from-the-peoples-republic-of-china-final-results-of-the"
+    },
+    {
+      "id": "c124abdb6de9",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Magnesia Carbon Bricks From Mexico and the People's Republic of China: Final Results of the Expedited Third Sunset Reviews of the Antidumping Duty Orders",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) orders on magnesia carbon bricks (bricks) from Mexico and the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Reviews\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22523/magnesia-carbon-bricks-from-mexico-and-the-peoples-republic-of-china-final-results-of-the-expedited"
+    },
+    {
+      "id": "7a625a807f30",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Floor-Standing, Metal-Top Ironing Tables and Certain Parts Thereof From the People's Republic of China: Final Results of the Expedited Fourth Sunset Review of the Antidumping Duty Order",
+      "summary": "The U.S. Department of Commerce (Commerce) finds that revocation of the antidumping duty (AD) order on floor-standing, metal- top ironing tables and certain parts thereof (ironing tables) from the People's Republic of China (China) would be likely to lead to continuation or recurrence of dumping, at the levels indicated in the \"Final Results of Sunset Review\" section of this notice.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22522/floor-standing-metal-top-ironing-tables-and-certain-parts-thereof-from-the-peoples-republic-of-china"
+    },
+    {
+      "id": "8c5317af82e0",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Order Granting Conditional Exemption for Japan Credit Rating Agency, Ltd. From Certain Requirements of Section 15E(t) of the Securities Exchange Act of 1934",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22521/order-granting-conditional-exemption-for-japan-credit-rating-agency-ltd-from-certain-requirements-of"
+    },
+    {
+      "id": "22b4525b8b4c",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Data Collection Available for Public Comments",
+      "summary": "The Small Business Administration (SBA) intends to request approval from the Office of Management and Budget (OMB) for the collection of information described below. The Paperwork Reduction Act (PRA) requires Federal agencies to publish a notice in the Federal Register concerning each proposed collection of information before submission to OMB, and to allow 60 days for public comment in response to the notice. This n",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22520/data-collection-available-for-public-comments"
+    },
+    {
+      "id": "9b36282c743f",
+      "category": "LEGIS",
+      "date": "2026-11-04",
+      "title": "Agency Information Collection Activities; Landslide Hazard Mapping and Assessment Grant Program",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 (PRA), the U.S. Geological Survey (USGS) is proposing to renew an information collection.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/04/2026-22519/agency-information-collection-activities-landslide-hazard-mapping-and-assessment-grant-program"
     }
   ]
 }
