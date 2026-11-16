@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-11-15T18:46:37.143Z",
-  "updates": []
+  "generated_at": "2026-11-16T21:56:48.408Z",
+  "updates": [
+    {
+      "id": "80b7d665da76",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Privacy Act of 1974; Matching Program",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/C1-2026-20951/privacy-act-of-1974-matching-program"
+    },
+    {
+      "id": "77dd0a5d5cbf",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Presidential Determination Concerning Wildfire Suppression Activities in the United States",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23349/presidential-determination-concerning-wildfire-suppression-activities-in-the-united-states"
+    },
+    {
+      "id": "7e0952213c88",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Veterans Day, 2026",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23348/veterans-day-2026"
+    },
+    {
+      "id": "e8eb1b660b1d",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Pilot for Online Version of Application for a U.S. Passport (Form DS-11)",
+      "summary": "The Department of State is announcing a pilot program to accept certain renewal and first-time passport applications online. Interested applicants will be able to visit America.gov to check their eligibility to submit a passport application through this pilot. It is anticipated that the pool of eligible applicants will be expanded as testing progresses.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23317/pilot-for-online-version-of-application-for-a-us-passport-form-ds-11"
+    },
+    {
+      "id": "8625151065ce",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Safety Zone; Huron River, Huron, OH",
+      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters of the Huron River within a 150-yard radius of 41[deg]23'34.6\" N, 82[deg]33'07.7\" W in Huron, OH. The safety zone is needed to protect personnel, vessels, and the marine environment from potential hazards created by an over water fireworks show. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Ca",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23304/safety-zone-huron-river-huron-oh"
+    },
+    {
+      "id": "765ca5712c16",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Notice of Request for Approval of a New Information Collection; Highly Pathogenic Avian Influenza: Administration of Vaccine in Zoos",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Animal and Plant Health Inspection Service's intention to request approval of a new information collection for implementation of vaccination for highly pathogenic avian influenza in zoos and animal sanctuaries.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23302/notice-of-request-for-approval-of-a-new-information-collection-highly-pathogenic-avian-influenza"
+    },
+    {
+      "id": "4e92c33a289f",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Record of Decision; Temporary Closure of East Potomac Park South of Buckeye Drive",
+      "summary": "The National Park Service (NPS) will temporarily close to public access and use all federal parkland administered by the National Mall and Memorial Parks within East Potomac Park south of Buckeye Drive SW, including East Potomac Golf Course.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23299/record-of-decision-temporary-closure-of-east-potomac-park-south-of-buckeye-drive"
+    },
+    {
+      "id": "26b7af2fb2ab",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Claim Adjudication Process for the Alleged Presence of Pneumoconiosis",
+      "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23298/agency-information-collection-activities-submission-for-omb-review-comment-request-claim"
+    },
+    {
+      "id": "67876378cbb0",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Application for Continuation of Death Benefit for Student",
+      "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23297/agency-information-collection-activities-submission-for-omb-review-comment-request-application-for"
+    },
+    {
+      "id": "1786b0629d6c",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Administration of the Longshore and Harbor Workers' Compensation Act",
+      "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23296/agency-information-collection-activities-submission-for-omb-review-comment-request-administration-of"
+    },
+    {
+      "id": "d7de6a21a87c",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; Comment Request; Request for Information on Earnings, Dual Benefits, Dependents, and Third Party Settlements",
+      "summary": "The Department of Labor (DOL) is submitting this Office of Workers' Compensation Programs (OWCP)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23295/agency-information-collection-activities-submission-for-omb-review-comment-request-request-for"
+    },
+    {
+      "id": "682706e055a6",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Proposed Revision of Information Collection; Certification of Medical Necessity",
+      "summary": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection request (ICR) titled, \"Certificate of Medical Necessity\". This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Reduction Act of 1995 (PRA).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23294/proposed-revision-of-information-collection-certification-of-medical-necessity"
+    },
+    {
+      "id": "0294675861f0",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Agency Information Collection Activities; Comment Request; Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities",
+      "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Quarterly Narrative Progress Report, Employment and Training Supplemental Budget Request Activities.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23293/agency-information-collection-activities-comment-request-quarterly-narrative-progress-report"
+    },
+    {
+      "id": "e9af946814fd",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Agency Information Collection Activities; Comment Request; Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report",
+      "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Workforce Innovation and Opportunity Act Joint Quarterly Narrative Report.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paper",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23292/agency-information-collection-activities-comment-request-workforce-innovation-and-opportunity-act"
+    },
+    {
+      "id": "552c5b28b810",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Countervailing Duty Investigation",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23291/certain-railway-tank-cars-and-subassemblies-thereof-from-mexico-initiation-of-countervailing-duty"
+    },
+    {
+      "id": "d03d54902122",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Certain Railway Tank Cars and Subassemblies Thereof From Mexico: Initiation of Less-Than-Fair-Value Investigation",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23290/certain-railway-tank-cars-and-subassemblies-thereof-from-mexico-initiation-of-less-than-fair-value"
+    },
+    {
+      "id": "d85f3289863c",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Federal Reserve Bank Services",
+      "summary": "The Board of Governors of the Federal Reserve System (Board) has approved the private-sector adjustment factor (PSAF) for 2027 of $35.3 million and the 2027 fee schedules for Federal Reserve priced services and electronic access. These actions were taken in accordance with the Monetary Control Act of 1980 (MCA), which requires that, over the long run, fees for Federal Reserve priced services be established based on a",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23289/federal-reserve-bank-services"
+    },
+    {
+      "id": "f22413fac9fa",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Accuracy of Advertising and Notice of Insured Status",
+      "summary": "The NCUA Board (Board) is issuing this final rule to streamline its regulations governing advertising and the notice of insured status. This final rule eliminates provisions concerning the official advertising statement. This action is undertaken to reduce regulatory complexity, and the intended effect is to reduce the administrative burden and costs for federally insured credit unions (FICUs) and provide them with g",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23288/accuracy-of-advertising-and-notice-of-insured-status"
+    },
+    {
+      "id": "5209f110ccee",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Privacy of Consumer Financial Information",
+      "summary": "The NCUA Board (Board) is issuing a final rule to make technical corrections to provisions of the NCUA's regulations. The technical amendments improve clarity by removing obsolete references to the privacy of consumer financial information regulation, which the NCUA no longer administers.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23286/privacy-of-consumer-financial-information"
+    },
+    {
+      "id": "ba8c747b585b",
+      "category": "LEGIS",
+      "date": "2026-11-16",
+      "title": "Burlington Electric Department; Notice of Application Tendered for Filing With the Commission and Establishing Procedural Schedule for Licensing and Deadline for Submission of Final Amendments",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/16/2026-23285/burlington-electric-department-notice-of-application-tendered-for-filing-with-the-commission-and"
+    }
+  ]
 }
