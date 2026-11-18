@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-11-17T20:49:56.674Z",
+  "generated_at": "2026-11-18T20:26:06.333Z",
   "updates": [
     {
-      "id": "90add440c6c6",
+      "id": "057febd713f1",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Safety Zone; Monongahela River, Pittsburgh, PA",
-      "summary": "The Coast Guard is establishing a temporary safety zone for navigable waters on the Monongahela River from Mile Marker 15 to Mile Marker 16. This safety zone is necessary to protect personnel and vessels from potential hazards on navigable waters during an operation to install aerial transverse wirelines. Entry of vessels or persons into this zone is prohibited unless specifically authorized by the Captain of the Por",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23405/safety-zone-monongahela-river-pittsburgh-pa"
-    },
-    {
-      "id": "ac671531f54e",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Wood Mouldings and Millwork Products From the People's Republic of China: Final Results of Antidumping Duty Administrative Review; 2024-2025",
-      "summary": "The U.S. Department of Commerce (Commerce) determines that Fujian Hongjia Craft Products Co., Ltd. (Hongjia), and Nanping Huatai Wood & Bamboo Co., Ltd. (Nanping Huatai), exporters of wood mouldings and millwork products (millwork products) from the People's Republic of China (China), sold subject merchandise in the United States at prices below normal value during the period of review (POR) February 01, 2024, throug",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23402/wood-mouldings-and-millwork-products-from-the-peoples-republic-of-china-final-results-of-antidumping"
-    },
-    {
-      "id": "d7662edaf545",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Corrugated Die-Cut Cardboard Boxes From China, Malaysia, and Turkey; Determinations",
+      "date": "2026-11-18",
+      "title": "Airworthiness Directives; BRP-Rotax GmbH & Co KG (Formerly BRP-POWERTRAIN GMBH & CO KG and Bombardier-Rotax GmbH) Engines",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23401/corrugated-die-cut-cardboard-boxes-from-china-malaysia-and-turkey-determinations"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/C1-2026-22307/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and"
     },
     {
-      "id": "c87372870824",
+      "id": "acccb24d77d2",
       "category": "LEGIS",
-      "date": "2026-11-17",
+      "date": "2026-11-18",
+      "title": "Racial Nondiscrimination in Private Schools; Hearing",
+      "summary": "This document provides a notice of an additional date for the public hearing on the notice of proposed rulemaking (REG-119986-25) published in the Federal Register on Friday, September 4, 2026. The proposed regulations would provide that a private school is not described as an organization exempt from Federal income tax if it discriminates on the basis of race, color, or national or ethnic origin in administration of",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23533/racial-nondiscrimination-in-private-schools-hearing"
+    },
+    {
+      "id": "1bf7b16b286a",
+      "category": "LEGIS",
+      "date": "2026-11-18",
+      "title": "Automatic Enrollment Requirements Under Section 414A",
+      "summary": "This document sets forth final regulations that provide guidance with respect to the automatic enrollment requirements that apply to certain retirement plans. The regulations reflect statutory changes made by the SECURE 2.0 Act of 2022 requiring that certain cash or deferred arrangements and salary reduction agreements be eligible automatic contribution arrangements that satisfy additional specified requirements. The",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a"
+    },
+    {
+      "id": "2438294a4fe9",
+      "category": "LEGIS",
+      "date": "2026-11-18",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23527/sunshine-act-meetings"
+    },
+    {
+      "id": "ce3a78b9808a",
+      "category": "LEGIS",
+      "date": "2026-11-18",
+      "title": "Accepted Means of Compliance; Airworthiness Standards: Normal Category Airplanes",
+      "summary": "This document announces the availability of ASTM International (ASTM) consensus standards for use as an FAA-accepted means of compliance (MOC) to the applicable airworthiness standards for normal category airplanes. The FAA accepts ASTM F3264-25, \"Standard Specification for Normal Category Aeroplanes Certification,\" with changes identified in this document.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes"
+    },
+    {
+      "id": "a271e757e83e",
+      "category": "LEGIS",
+      "date": "2026-11-18",
       "title": "Protecting Consumers From SIM-Swap and Port-Out Fraud",
-      "summary": "In this document, the Wireline Competition Bureau (Bureau) announces that the Office of Management and Budget (OMB) has approved, for a period of three years, the information collection associated with the Commission's rules adopted in the SIM Swap and Port-Out Fraud Order, FCC 23-95. This document is consistent with that Order, which stated that the revised rules would not become effective until OMB completed its re",
+      "summary": "In this document, the Wireline Competition Bureau (Bureau) announces that the Office of Management and Budget (OMB) has approved, for a period of three years, the information collection associated with Telephone Number Portability. This document is consistent with the SIM Swap and Port-Out Fraud Order, which directed the Wireline Competition Bureau to publish a document in the Federal Register announcing a compliance",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23400/protecting-consumers-from-sim-swap-and-port-out-fraud"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23522/protecting-consumers-from-sim-swap-and-port-out-fraud"
     },
     {
-      "id": "a76146d72190",
+      "id": "df92f1292e25",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Draft Environmental Assessment, Public Hearing, and Request for Comment on the Maximum Economic Recovery and Fair Market Value for the Falkirk Mining Company Proposed Federal Coal Lease-By-Application and Mining Plan for NDMT106782389, McLean County, ND",
-      "summary": "The Bureau of Land Management (BLM) and the Office of Surface Mining Reclamation and Enforcement (OSM) announce that a draft environmental assessment (EA) is available for public review for the Falkirk Mining Company's Federal coal lease-by-application (LBA) for Falkirk Mine, serial number NDMT 106782389, and mining plan for the proposed NDMT 106782389. The BLM also announces that a public hearing will be held to rec",
+      "date": "2026-11-18",
+      "title": "Air Plan Approval; Texas; Revisions to Concrete Batch Plant Standard Permit",
+      "summary": "Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is proposing to approve revisions to the Texas State Implementation Plan (SIP) submitted by the Texas Commission on Environmental Quality (TCEQ) on April 2, 2026, to update the provisions for standard permits (SP) for concrete batch plants (CBP) that perform wet batching, dry batching, or central mixing.",
       "tags": [
         "Federal Register"
       ],
-      "priority": "high",
+      "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23399/draft-environmental-assessment-public-hearing-and-request-for-comment-on-the-maximum-economic"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23521/air-plan-approval-texas-revisions-to-concrete-batch-plant-standard-permit"
     },
     {
-      "id": "9306ff20ce3f",
+      "id": "cf83b0ea933f",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Release of Waybill Data",
+      "date": "2026-11-18",
+      "title": "Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard",
+      "summary": "Pursuant to the Federal Clean Air Act (CAA or the Act), the U.S. Environmental Protection Agency (EPA) is proposing to approve a revision to the Texas State Implementation Plan (SIP) containing the State's plan for maintaining the 2008 Lead (Pb) National Ambient Air Quality Standard (NAAQS or standard) through 2037 for the Collin County area, submitted by the State of Texas, through the Texas Commission on Environmen",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23519/air-plan-approval-texas-collin-county-second-10-year-maintenance-plan-for-the-2008-lead-standard"
+    },
+    {
+      "id": "608867ec5f45",
+      "category": "LEGIS",
+      "date": "2026-11-18",
+      "title": "Air Plan Approval; Virginia; Interstate Transport Requirements for the 2010 SO2 NAAQS",
+      "summary": "Pursuant to the Federal Clean Air Act (CAA or Act), the U.S. Environmental Protection Agency (EPA) is proposing to approve a State implementation plan (SIP) revision submitted by the Commonwealth of Virginia demonstrating that Virginia satisfies the interstate transport requirements of the CAA, for the 2010 1-hour sulfur dioxide (SO 2 ) primary national ambient air quality standard (NAAQS). Specifically, the EPA prop",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23517/air-plan-approval-virginia-interstate-transport-requirements-for-the-2010-so2-naaqs"
+    },
+    {
+      "id": "f23ae998999b",
+      "category": "LEGIS",
+      "date": "2026-11-18",
+      "title": "Notice of Revised National Environmental Policy Act Implementing Procedures",
+      "summary": "The U.S. Department of Homeland Security (DHS or Department) is updating DHS Directive 023, Implementation of the National Environmental Policy Act, which establishes procedures for complying with the National Environmental Policy Act (NEPA). This update is necessary in light of the recent rescission of the Council on Environmental Quality's NEPA implementing regulations, which DHS's procedures were designed to suppl",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures"
+    },
+    {
+      "id": "552c6863b79d",
+      "category": "LEGIS",
+      "date": "2026-11-18",
+      "title": "Income Taxes",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23398/release-of-waybill-data"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23514/income-taxes"
     },
     {
-      "id": "31c709152f96",
+      "id": "e03e8eac4423",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Modernizing to Electronic Payments",
-      "summary": "FAA proposes to modernize its payment systems to require electronic payments and eliminate the option to pay by paper payment methods such as cash, money orders, and paper checks. This proposal complies with Executive Order 14247 titled \"Modernizing Payments To and From America's Bank Account,\" which seeks to increase the efficiency of the Federal Government by phasing out paper receipts and mandating electronic paym",
+      "date": "2026-11-18",
+      "title": "Kyndahl D. Bertram, D.O.; Decision and Order",
+      "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23397/modernizing-to-electronic-payments"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23513/kyndahl-d-bertram-do-decision-and-order"
     },
     {
-      "id": "78401fd9e5e3",
+      "id": "a0e8925eaa7f",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Agency Information Collection Activities; Comment Request; Federal Direct Loan Program and Federal Family Education Loan Program Teacher Loan Forgiveness Forms",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing and extension without change of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23396/agency-information-collection-activities-comment-request-federal-direct-loan-program-and-federal"
-    },
-    {
-      "id": "201ffeb7412a",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "In the Matter of TRISO-X, LLC; Confirmatory Order Modifying License",
-      "summary": "The U.S. Nuclear Regulatory Commission (NRC) is issuing a Confirmatory Order to TRISO-X, LLC (the licensee), as a result of a successful Alternative Dispute Resolution (ADR) mediation. On June 9, 2026, the NRC notified the licensee of an apparent violation being considered for escalated enforcement. The apparent violation involved the implementation of management measures to ensure the design basis supporting the str",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23395/in-the-matter-of-triso-x-llc-confirmatory-order-modifying-license"
-    },
-    {
-      "id": "838acc0a86e5",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Statement of Organization, Functions, and Delegations of Authority",
-      "summary": "The National Institute of Allergy and Infectious Diseases (NIAID) of the National Institutes of Health has modified its organizational structure.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23394/statement-of-organization-functions-and-delegations-of-authority"
-    },
-    {
-      "id": "e025ba440435",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Hardwood and Decorative Plywood From the People's Republic of China, Indonesia, and the Socialist Republic of Vietnam: Countervailing Duty Orders",
-      "summary": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing countervailing duty (CVD) orders on hardwood and decorative plywood from the People's Republic of China (China), Indonesia, and the Socialist Republic of Vietnam (Vietnam).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23393/hardwood-and-decorative-plywood-from-the-peoples-republic-of-china-indonesia-and-the-socialist"
-    },
-    {
-      "id": "2b53008d057f",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Chartering and Field of Membership for Federal Credit Unions; Associational Common Bonds and Client-Customer Relationships",
-      "summary": "The NCUA Board (Board) is issuing a final rule to amend its criteria for determining associational common bonds. The amendments clarify that requiring members to buy a good, product, or service from a group as a condition of membership will no longer automatically bar eligibility as a recognized association. After considering public comments, the Board finalizes the proposed rule with certain modifications. The Board",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "high",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23392/chartering-and-field-of-membership-for-federal-credit-unions-associational-common-bonds-and"
-    },
-    {
-      "id": "4d92fbb79cfd",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Agency Information Collection Activities; Comment Request; National Assessment of Educational Progress (NAEP) 2028",
-      "summary": "In accordance with the Paperwork Reduction Act (PRA) of 1995, the Department is proposing a revision of a currently approved information collection request (ICR).",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23391/agency-information-collection-activities-comment-request-national-assessment-of-educational-progress"
-    },
-    {
-      "id": "65854e1d41d6",
-      "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Respirable Crystalline Silica and Respiratory Protection",
-      "summary": "The Mine Safety and Health Administration (MSHA) is correcting an error in the \"Respirable Crystalline Silica and Respiratory Protection\" proposed rule that was published in the Federal Register on November 12, 2026. The proposed rule clarifies and modifies provisions of MSHA's respirable crystalline silica and respiratory protection standards.",
+      "date": "2026-11-18",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V ANNIE LAURIE",
+      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23390/respirable-crystalline-silica-and-respiratory-protection"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23511/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-annie"
     },
     {
-      "id": "0ab3c93d5fb1",
+      "id": "28467733bb33",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Proposed Submission of Information Collection for OMB Review; Comment Request; Disclosure of Termination Information",
-      "summary": "The Pension Benefit Guaranty Corporation (PBGC) intends to request that the Office of Management and Budget (OMB), under the Paperwork Reduction Act, extend its approval of a collection of information regarding the disclosure of termination information under PBGC's regulations governing distress terminations and for PBGC- initiated terminations (OMB control number 1212-0065; expires February 28, 2027). This notice in",
+      "date": "2026-11-18",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V OSIRIS",
+      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23389/proposed-submission-of-information-collection-for-omb-review-comment-request-disclosure-of"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23510/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv"
     },
     {
-      "id": "16f13daf0011",
+      "id": "32efc939c2fd",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Information Collection Being Reviewed by the Federal Communications Commission",
-      "summary": "As part of its continuing effort to reduce paperwork burdens, and as required by the Paperwork Reduction Act (PRA) of 1995, the Federal Communications Commission (FCC or the Commission) invites the general public and other Federal agencies to take this opportunity to comment on the following information collection. Comments are requested concerning: whether the proposed collection of information is necessary for the ",
+      "date": "2026-11-18",
+      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V NEXUS",
+      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23388/information-collection-being-reviewed-by-the-federal-communications-commission"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23509/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-nexus"
     },
     {
-      "id": "6600ac3e954b",
+      "id": "986124a9665d",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Freedom of Information Act (FOIA) Advisory Committee Meetings",
-      "summary": "We are announcing two upcoming Freedom of Information Act (FOIA) Advisory Committee meetings in accordance with the Federal Advisory Committee Act and the second United States Open Government National Action Plan.",
+      "date": "2026-11-18",
+      "title": "Potassium Phosphate Salts From China; Scheduling of Expedited Five-Year Reviews",
+      "summary": "The Commission hereby gives notice of the scheduling of expedited reviews pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the countervailing and the antidumping duty orders on potassium phosphate salts from China would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23387/freedom-of-information-act-foia-advisory-committee-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23507/potassium-phosphate-salts-from-china-scheduling-of-expedited-five-year-reviews"
     },
     {
-      "id": "2d14423d8257",
+      "id": "aaf95970f90b",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Hardwood and Decorative Plywood From the People's Republic of China, Indonesia, and the Socialist Republic of Vietnam: Antidumping Duty Orders",
-      "summary": "Based on affirmative final determinations by the U.S. Department of Commerce (Commerce) and the U.S. International Trade Commission (ITC), Commerce is issuing antidumping duty (AD) orders on hardwood and decorative plywood from the People's Republic of China (China), Indonesia, and the Socialist Republic of Vietnam (Vietnam).",
+      "date": "2026-11-18",
+      "title": "Agency Information Collection Activities; Submission for OMB Review; American Time Use Survey (ATUS) Super Intelligence (SI) Questions",
+      "summary": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23386/hardwood-and-decorative-plywood-from-the-peoples-republic-of-china-indonesia-and-the-socialist"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23506/agency-information-collection-activities-submission-for-omb-review-american-time-use-survey-atus"
     },
     {
-      "id": "b4781b420a0f",
+      "id": "ff61192014b3",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Modernizing the Commission's National Environmental Policy Act Rules",
-      "summary": "In this document (Order), the Federal Communications Commission (\"Commission\" or \"FCC\") takes action to cut through outdated and unnecessary burdens that have slowed deployment of critical communications networks. These reforms restore balance to the Commission's National Environmental Policy Act (NEPA) implementation by providing clear and predictable rules to ensure NEPA serves as a tool for informed decision-makin",
+      "date": "2026-11-18",
+      "title": "Proposed Extension of Information Collection; BLS Labor Market Information Cooperative Agreement Application Package",
+      "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desire",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23385/modernizing-the-commissions-national-environmental-policy-act-rules"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23505/proposed-extension-of-information-collection-bls-labor-market-information-cooperative-agreement"
     },
     {
-      "id": "7ed0f2a1802e",
+      "id": "bf282fbfbba9",
       "category": "LEGIS",
-      "date": "2026-11-17",
-      "title": "Publication of the Tier 2 Tax Rates",
-      "summary": "Publication of the tier 2 tax rates for calendar year 2027 as required by section 3241(d) of the Internal Revenue Code. Tier 2 taxes on railroad employees, employers, and employee representatives are one source of funding for benefits under the Railroad Retirement Act.",
+      "date": "2026-11-18",
+      "title": "Agency Information Collection Activities; Comment Request; Unemployment Insurance State Quality Service Plan Planning and Reporting Guidelines",
+      "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Unemployment Insurance (UI) State Quality Service Plan (SQSP) Planning and Reporting Guidelines.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in acc",
       "tags": [
         "Federal Register"
       ],
-      "priority": "low",
+      "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/17/2026-23384/publication-of-the-tier-2-tax-rates"
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23504/agency-information-collection-activities-comment-request-unemployment-insurance-state-quality"
+    },
+    {
+      "id": "68f2c4e97eeb",
+      "category": "LEGIS",
+      "date": "2026-11-18",
+      "title": "Proposed Revision of Information Collection; Report of Changes That May Affect Your Black Lung Benefits, CM-929, CM-929P and Quick Costumer Connect Form",
+      "summary": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection requests (ICRs) titled, \"Report of Changes that May Affect Your Black Lung Benefits\" (Forms CM-929, CM-929P and Quick Costumer Connect). This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Red",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23503/proposed-revision-of-information-collection-report-of-changes-that-may-affect-your-black-lung"
     }
   ]
 }
