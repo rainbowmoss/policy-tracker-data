@@ -1,265 +1,265 @@
 {
-  "generated_at": "2026-11-18T20:26:06.333Z",
+  "generated_at": "2026-11-19T20:29:10.227Z",
   "updates": [
     {
-      "id": "057febd713f1",
+      "id": "0dd44e5768cb",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Airworthiness Directives; BRP-Rotax GmbH & Co KG (Formerly BRP-POWERTRAIN GMBH & CO KG and Bombardier-Rotax GmbH) Engines",
+      "date": "2026-11-19",
+      "title": "Airworthiness Directives; General Atomics AeroTec Systems GmbH (Type Certificate Previously Held by RUAG Aerospace Services GmbH) Airplanes",
+      "summary": "The FAA is adopting a new airworthiness directive (AD) for all General Atomics AeroTec Systems GmbH (General Atomics) Model Dornier 228-100, Dornier 228-101, Dornier 228-200, Dornier 228-201, Dornier 228-202, and Dornier 228-212 airplanes. This AD was prompted by reports of specific part-numbered hydraulic pump motors becoming severely damaged by excessive heat. This AD requires replacing the affected hydraulic pump ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23633/airworthiness-directives-general-atomics-aerotec-systems-gmbh-type-certificate-previously-held-by"
+    },
+    {
+      "id": "89d147d7f6c7",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Complaint",
+      "summary": "This document provides the deadline date to file a notice of intervention and discusses aspects of the procedural schedule and case management procedures.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23618/complaint"
+    },
+    {
+      "id": "d614fd984d0f",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Health and Human Services Acquisition Regulations; Correction",
+      "summary": "This document corrects technical and typographical errors in the final rule that appeared in the Federal Register on November 18, 2015, titled \"Health and Human Services Acquisition Regulations.\"",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23617/health-and-human-services-acquisition-regulations-correction"
+    },
+    {
+      "id": "e8164ab446ba",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Privacy Act of 1974; Matching Program",
+      "summary": "This matching program will support the U.S. Department of Education (ED) and the Department of War (DoW) in meeting the requirements set forth in Section 559(b) of the Servicemember Quality of Life Improvement and National Defense Authorization Act for Fiscal Year 2025, which requires the Secretary of Education and the Secretary of War to enter into a matching program to identify servicemembers and staff eligible for",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23616/privacy-act-of-1974-matching-program"
+    },
+    {
+      "id": "43241b42b935",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Aquatic Nuisance Species Task Force Meeting",
+      "summary": "The U.S. Fish and Wildlife Service gives notice of a virtual public meeting of the Aquatic Nuisance Species Task Force (ANSTF) in accordance with the Federal Advisory Committee Act.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23615/aquatic-nuisance-species-task-force-meeting"
+    },
+    {
+      "id": "aec68cb0fc92",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Customer Due Diligence Requirements for Covered Financial Institutions",
+      "summary": "FinCEN is issuing this proposed rule to strengthen customer due diligence requirements under the Customer Due Diligence Rule consistent with the policy goals of, and as directed by, Executive Order 14406, Restoring Integrity to America's Financial System. Specifically, the proposal ensures financial institutions covered by the Customer Due Diligence Rule collect sufficient information to verify the identities of bene",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23614/customer-due-diligence-requirements-for-covered-financial-institutions"
+    },
+    {
+      "id": "f7f8ae079e4b",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Agency Information Collection Activities: Request for Comments for a New Information Collection",
+      "summary": "The FHWA has forwarded the information collection request described in this notice to the Office of Management and Budget (OMB) to approve a new information collection. We are required to publish this notice in the Federal Register by the Paperwork Reduction Act of 1995.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23613/agency-information-collection-activities-request-for-comments-for-a-new-information-collection"
+    },
+    {
+      "id": "611a63b5019b",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Agency Information Collection Activities: Requests for Comments; Clearance of Renewed Approval of Information Collection: Monitoring, Reporting, and Verification (MRV) Program for Annex 16, Volume IV of the Convention on Civil Aviation",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, FAA invites public comments about our intention to request the Office of Management and Budget (OMB) approval for a renewed information collection. The Federal Register Notice with a 60-day comment period soliciting comments on the following collection of information was published on July 20, 2026. FAA received five comments to this notice. The collection involv",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23612/agency-information-collection-activities-requests-for-comments-clearance-of-renewed-approval-of"
+    },
+    {
+      "id": "1daca18ff97f",
+      "category": "LEGIS",
+      "date": "2026-11-19",
+      "title": "Exelon Corporation v. PJM Interconnection, L.L.C.; Notice Establishing Comment Period",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/C1-2026-22307/airworthiness-directives-brp-rotax-gmbh-and-co-kg-formerly-brp-powertrain-gmbh-and-co-kg-and"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23611/exelon-corporation-v-pjm-interconnection-llc-notice-establishing-comment-period"
     },
     {
-      "id": "acccb24d77d2",
+      "id": "b98b2bdea029",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Racial Nondiscrimination in Private Schools; Hearing",
-      "summary": "This document provides a notice of an additional date for the public hearing on the notice of proposed rulemaking (REG-119986-25) published in the Federal Register on Friday, September 4, 2026. The proposed regulations would provide that a private school is not described as an organization exempt from Federal income tax if it discriminates on the basis of race, color, or national or ethnic origin in administration of",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23533/racial-nondiscrimination-in-private-schools-hearing"
-    },
-    {
-      "id": "1bf7b16b286a",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Automatic Enrollment Requirements Under Section 414A",
-      "summary": "This document sets forth final regulations that provide guidance with respect to the automatic enrollment requirements that apply to certain retirement plans. The regulations reflect statutory changes made by the SECURE 2.0 Act of 2022 requiring that certain cash or deferred arrangements and salary reduction agreements be eligible automatic contribution arrangements that satisfy additional specified requirements. The",
+      "date": "2026-11-19",
+      "title": "Agency Information Collection Activities; Comment Request on Application for Security Summit Membership",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, the IRS is inviting comments on the information collection request outlined in this notice.",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23530/automatic-enrollment-requirements-under-section-414a"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23610/agency-information-collection-activities-comment-request-on-application-for-security-summit"
     },
     {
-      "id": "2438294a4fe9",
+      "id": "4f19b93c937e",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Sunshine Act Meetings",
+      "date": "2026-11-19",
+      "title": "Freeport LNG Development, L.P., FLNG Liquefaction, LLC, FLNG Liquefaction 2, LLC, FLNG Liquefaction 3, LLC, FLNG Liquefaction 4, LLC; Notice of Application and Establishing Intervention Deadline",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23527/sunshine-act-meetings"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23609/freeport-lng-development-lp-flng-liquefaction-llc-flng-liquefaction-2-llc-flng-liquefaction-3-llc"
     },
     {
-      "id": "ce3a78b9808a",
+      "id": "1132971f995f",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Accepted Means of Compliance; Airworthiness Standards: Normal Category Airplanes",
-      "summary": "This document announces the availability of ASTM International (ASTM) consensus standards for use as an FAA-accepted means of compliance (MOC) to the applicable airworthiness standards for normal category airplanes. The FAA accepts ASTM F3264-25, \"Standard Specification for Normal Category Aeroplanes Certification,\" with changes identified in this document.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23525/accepted-means-of-compliance-airworthiness-standards-normal-category-airplanes"
-    },
-    {
-      "id": "a271e757e83e",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Protecting Consumers From SIM-Swap and Port-Out Fraud",
-      "summary": "In this document, the Wireline Competition Bureau (Bureau) announces that the Office of Management and Budget (OMB) has approved, for a period of three years, the information collection associated with Telephone Number Portability. This document is consistent with the SIM Swap and Port-Out Fraud Order, which directed the Wireline Competition Bureau to publish a document in the Federal Register announcing a compliance",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23522/protecting-consumers-from-sim-swap-and-port-out-fraud"
-    },
-    {
-      "id": "df92f1292e25",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Air Plan Approval; Texas; Revisions to Concrete Batch Plant Standard Permit",
-      "summary": "Pursuant to the Federal Clean Air Act (CAA or the Act), the Environmental Protection Agency (EPA) is proposing to approve revisions to the Texas State Implementation Plan (SIP) submitted by the Texas Commission on Environmental Quality (TCEQ) on April 2, 2026, to update the provisions for standard permits (SP) for concrete batch plants (CBP) that perform wet batching, dry batching, or central mixing.",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23521/air-plan-approval-texas-revisions-to-concrete-batch-plant-standard-permit"
-    },
-    {
-      "id": "cf83b0ea933f",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Air Plan Approval; Texas; Collin County Second 10-Year Maintenance Plan for the 2008 Lead Standard",
-      "summary": "Pursuant to the Federal Clean Air Act (CAA or the Act), the U.S. Environmental Protection Agency (EPA) is proposing to approve a revision to the Texas State Implementation Plan (SIP) containing the State's plan for maintaining the 2008 Lead (Pb) National Ambient Air Quality Standard (NAAQS or standard) through 2037 for the Collin County area, submitted by the State of Texas, through the Texas Commission on Environmen",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23519/air-plan-approval-texas-collin-county-second-10-year-maintenance-plan-for-the-2008-lead-standard"
-    },
-    {
-      "id": "608867ec5f45",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Air Plan Approval; Virginia; Interstate Transport Requirements for the 2010 SO2 NAAQS",
-      "summary": "Pursuant to the Federal Clean Air Act (CAA or Act), the U.S. Environmental Protection Agency (EPA) is proposing to approve a State implementation plan (SIP) revision submitted by the Commonwealth of Virginia demonstrating that Virginia satisfies the interstate transport requirements of the CAA, for the 2010 1-hour sulfur dioxide (SO 2 ) primary national ambient air quality standard (NAAQS). Specifically, the EPA prop",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23517/air-plan-approval-virginia-interstate-transport-requirements-for-the-2010-so2-naaqs"
-    },
-    {
-      "id": "f23ae998999b",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Notice of Revised National Environmental Policy Act Implementing Procedures",
-      "summary": "The U.S. Department of Homeland Security (DHS or Department) is updating DHS Directive 023, Implementation of the National Environmental Policy Act, which establishes procedures for complying with the National Environmental Policy Act (NEPA). This update is necessary in light of the recent rescission of the Council on Environmental Quality's NEPA implementing regulations, which DHS's procedures were designed to suppl",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "low",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23515/notice-of-revised-national-environmental-policy-act-implementing-procedures"
-    },
-    {
-      "id": "552c6863b79d",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Income Taxes",
+      "date": "2026-11-19",
+      "title": "Combined Notice of Filings",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23514/income-taxes"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23608/combined-notice-of-filings"
     },
     {
-      "id": "e03e8eac4423",
+      "id": "79198f81dbee",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Kyndahl D. Bertram, D.O.; Decision and Order",
+      "date": "2026-11-19",
+      "title": "Combined Notice of Filings #1",
       "summary": "Federal Register document (no abstract provided).",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23513/kyndahl-d-bertram-do-decision-and-order"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23607/combined-notice-of-filings-1"
     },
     {
-      "id": "a0e8925eaa7f",
+      "id": "fd8890559401",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V ANNIE LAURIE",
-      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23511/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-annie"
-    },
-    {
-      "id": "28467733bb33",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V OSIRIS",
-      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23510/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv"
-    },
-    {
-      "id": "32efc939c2fd",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Request Notice: Use of Foreign-Built Small Passenger Vessel in United States Coastwise Trade, M/V NEXUS",
-      "summary": "The Secretary of Transportation, as represented by MARAD, is authorized to make determinations regarding the coastwise use of foreign built; certain U.S. built; and U.S. and foreign rebuilt vessels that solely carry no more than twelve passengers for hire. MARAD has received such a determination request and is publishing this notice to solicit comments to assist with determining whether the proposed use of the vessel",
-      "tags": [
-        "Federal Register"
-      ],
-      "priority": "medium",
-      "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23509/request-notice-use-of-foreign-built-small-passenger-vessel-in-united-states-coastwise-trade-mv-nexus"
-    },
-    {
-      "id": "986124a9665d",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Potassium Phosphate Salts From China; Scheduling of Expedited Five-Year Reviews",
-      "summary": "The Commission hereby gives notice of the scheduling of expedited reviews pursuant to the Tariff Act of 1930 (\"the Act\") to determine whether revocation of the countervailing and the antidumping duty orders on potassium phosphate salts from China would be likely to lead to continuation or recurrence of material injury within a reasonably foreseeable time.",
+      "date": "2026-11-19",
+      "title": "Agency Information Collection Activity Under OMB Review: Mandatory Verification of Dependents",
+      "summary": "In compliance with the Paperwork Reduction Act (PRA) of 1995, this notice announces that the Veterans Benefits Administration (VBA), Department of Veterans Affairs, will submit the collection of information abstracted below to the Office of Management and Budget (OMB) for review and comment. The PRA submission describes the nature of the information collection and its expected cost and burden, and it includes the act",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23507/potassium-phosphate-salts-from-china-scheduling-of-expedited-five-year-reviews"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23606/agency-information-collection-activity-under-omb-review-mandatory-verification-of-dependents"
     },
     {
-      "id": "aaf95970f90b",
+      "id": "63db386ea079",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Agency Information Collection Activities; Submission for OMB Review; American Time Use Survey (ATUS) Super Intelligence (SI) Questions",
-      "summary": "The Department of Labor (DOL) is submitting this Bureau of Labor Statistics (BLS)-sponsored information collection request (ICR) to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). Public comments on the ICR are invited.",
+      "date": "2026-11-19",
+      "title": "Notice of Application for 299 ROW Application for Coastal Connect Services, LLC; Florida",
+      "summary": "The Bureau of Land Management (BLM) has received a right-of- way (ROW) application from Coastal Connect Services, LLC for a proposed intrastate natural gas pipeline in Cape Canaveral, Florida. The BLM will complete environmental analysis under the National Environmental Policy Act (NEPA) before deciding whether to authorize the pipeline ROW.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23605/notice-of-application-for-299-row-application-for-coastal-connect-services-llc-florida"
+    },
+    {
+      "id": "1b99c2467fa7",
+      "category": "CMS",
+      "date": "2026-11-19",
+      "title": "Medicare Program; CY 2027 Part A Premiums for the Uninsured Aged and for Certain Disabled Individuals Who Have Exhausted Other Entitlement",
+      "summary": "This notice announces Medicare's Hospital Insurance Program (Medicare Part A) premium for uninsured enrollees in calendar year (CY) 2027. This premium is paid by enrollees aged 65 and over who are not otherwise eligible for benefits under Medicare Part A (hereafter known as the \"uninsured aged\") and by certain individuals with disabilities who have exhausted other entitlement. The monthly Medicare Part A premium for ",
       "tags": [
         "Federal Register"
       ],
       "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23506/agency-information-collection-activities-submission-for-omb-review-american-time-use-survey-atus"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23604/medicare-program-cy-2027-part-a-premiums-for-the-uninsured-aged-and-for-certain-disabled-individuals"
     },
     {
-      "id": "ff61192014b3",
+      "id": "039194db1b7d",
+      "category": "CMS",
+      "date": "2026-11-19",
+      "title": "Medicare Program; CY 2027 Inpatient Hospital Deductible and Hospital and Extended Care Services Coinsurance Amounts",
+      "summary": "This notice announces the inpatient hospital deductible and the hospital and extended care services coinsurance amounts for services furnished in calendar year (CY) 2027 under Medicare's Hospital Insurance Program (Medicare Part A). The Medicare statute specifies the formulae used to determine these amounts. For CY 2027, the inpatient hospital deductible will be $1,776. The daily coinsurance amounts for CY 2027 will ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23603/medicare-program-cy-2027-inpatient-hospital-deductible-and-hospital-and-extended-care-services"
+    },
+    {
+      "id": "886cb29b319e",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Proposed Extension of Information Collection; BLS Labor Market Information Cooperative Agreement Application Package",
-      "summary": "The Department of Labor, as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre-clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act of 1995. This program helps to ensure that requested data can be provided in the desire",
+      "date": "2026-11-19",
+      "title": "Agency Information Collection Activities: Proposed Collection, Comment Request; Standard Flood Hazard Determination Form (SFHDF)",
+      "summary": "The Federal Emergency Management Agency (FEMA), as part of its continuing effort to reduce paperwork and respondent burden, invites the general public to take this opportunity to comment on an extension without change of a currently approved information collection. In accordance with the requirements of the Paperwork Reduction Act of 1995, this notice seeks comments concerning this instrument, which is used by Federa",
       "tags": [
         "Federal Register"
       ],
       "priority": "medium",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23505/proposed-extension-of-information-collection-bls-labor-market-information-cooperative-agreement"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23602/agency-information-collection-activities-proposed-collection-comment-request-standard-flood-hazard"
     },
     {
-      "id": "bf282fbfbba9",
-      "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Agency Information Collection Activities; Comment Request; Unemployment Insurance State Quality Service Plan Planning and Reporting Guidelines",
-      "summary": "The Department of Labor's (DOL) Employment and Training Administration (ETA) is soliciting comments concerning a proposed revision for the authority to conduct the information collection request (ICR) titled, \"Unemployment Insurance (UI) State Quality Service Plan (SQSP) Planning and Reporting Guidelines.\" This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in acc",
+      "id": "fe7bfb3980e8",
+      "category": "CMS",
+      "date": "2026-11-19",
+      "title": "Medicare Program; Medicare Part B Monthly Actuarial Rates, Premium Rates, and Annual Deductible Beginning January 1, 2027",
+      "summary": "This notice announces the monthly actuarial rates for aged (age 65 and over) and disabled (under age 65) beneficiaries enrolled in Part B of the Medicare Supplementary Medical Insurance (SMI) program beginning January 1, 2027. In addition, this notice announces the monthly premium for aged and disabled beneficiaries, the deductible for 2027, and the income-related monthly adjustment amounts to be paid by beneficiarie",
       "tags": [
         "Federal Register"
       ],
-      "priority": "medium",
+      "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23504/agency-information-collection-activities-comment-request-unemployment-insurance-state-quality"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23601/medicare-program-medicare-part-b-monthly-actuarial-rates-premium-rates-and-annual-deductible"
     },
     {
-      "id": "68f2c4e97eeb",
+      "id": "4130f72b5d1e",
       "category": "LEGIS",
-      "date": "2026-11-18",
-      "title": "Proposed Revision of Information Collection; Report of Changes That May Affect Your Black Lung Benefits, CM-929, CM-929P and Quick Costumer Connect Form",
-      "summary": "The Department of Labor (DOL) is soliciting comments concerning a proposed extension for the authority to conduct the information collection requests (ICRs) titled, \"Report of Changes that May Affect Your Black Lung Benefits\" (Forms CM-929, CM-929P and Quick Costumer Connect). This comment request is part of continuing Departmental efforts to reduce paperwork and respondent burden in accordance with the Paperwork Red",
+      "date": "2026-11-19",
+      "title": "Administrative Declaration of an Economic Injury Disaster for the State of California",
+      "summary": "This is notice of an Economic Injury Disaster Loan (EIDL) declaration for the state of California dated November 16, 2026. Incident: Old Town Newhall Fire.",
       "tags": [
         "Federal Register"
       ],
-      "priority": "medium",
+      "priority": "low",
       "source": "Federal Register",
-      "url": "https://www.federalregister.gov/documents/2026/11/18/2026-23503/proposed-revision-of-information-collection-report-of-changes-that-may-affect-your-black-lung"
+      "url": "https://www.federalregister.gov/documents/2026/11/19/2026-23600/administrative-declaration-of-an-economic-injury-disaster-for-the-state-of-california"
     }
   ]
 }
