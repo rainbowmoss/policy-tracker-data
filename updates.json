@@ -1,4 +1,265 @@
 {
-  "generated_at": "2026-11-26T21:26:20.784Z",
-  "updates": []
+  "generated_at": "2026-11-27T21:09:18.888Z",
+  "updates": [
+    {
+      "id": "f54d5ab5a6f8",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24236/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous"
+    },
+    {
+      "id": "855ec6daf25a",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Sunshine Act Meetings",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24202/sunshine-act-meetings"
+    },
+    {
+      "id": "74957306fd7e",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Lake Providence Port Commission-Feeder Line Application-Line of Delta Southern Railroad Located in East Carroll and Madison Parishes, LA",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24165/lake-providence-port-commission-feeder-line-application-line-of-delta-southern-railroad-located-in"
+    },
+    {
+      "id": "2f475d7e8e8d",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Permits; Foreign Fishing",
+      "summary": "NMFS publishes for public review and comment information regarding a permit application for transshipment of farmed salmon from aquaculture operations in Maine waters to processing plants in Canada by Canadian flagged vessels. The application for a transshipment permit is submitted under provisions of the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act). This action is necessary for NMF",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24164/permits-foreign-fishing"
+    },
+    {
+      "id": "1fa6e351725e",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Notice of Proposed Information Collection Requests: IMLS Grants to States Five-Year State Plan Guidelines for State Library Administrative Agencies for Fiscal Years 2028-2032",
+      "summary": "The Institute of Museum and Library Services (IMLS), as part of its continuing effort to reduce paperwork and respondent burden, conducts a pre- clearance consultation program to provide the general public and Federal agencies with an opportunity to comment on proposed and/or continuing collections of information in accordance with the Paperwork Reduction Act (PRA). The PRA ensures that data requested by the Federal ",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24163/notice-of-proposed-information-collection-requests-imls-grants-to-states-five-year-state-plan"
+    },
+    {
+      "id": "9953bc8e3d22",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Administrative Declaration of an Economic Injury Disaster for the State of Idaho",
+      "summary": "This is notice of an Economic Injury Disaster Loan (EIDL) declaration for the state of Idaho dated November 23, 2026. Incident: Big Rock Fire, Flooding, and Debris Flow.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24161/administrative-declaration-of-an-economic-injury-disaster-for-the-state-of-idaho"
+    },
+    {
+      "id": "8b70aef37e80",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Enhanced-Use Lease (EUL) of Department of Veterans Affairs (VA) Real Property at the Clement J. Zablocki VA Medical Center, Milwaukee, Wisconsin",
+      "summary": "The purpose of this Federal Register notice is to provide the public with notice that the Secretary of Veterans Affairs intends to enter into an EUL of the Ward Memorial Hall Theater, Governor's Mansion, and Chapel on approximately 4.76 acres of underutilized land on the campus of the Clement J. Zablocki VA Medical Center.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24160/enhanced-use-lease-eul-of-department-of-veterans-affairs-va-real-property-at-the-clement-j-zablocki"
+    },
+    {
+      "id": "e1ee0ac77255",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Agency Information Collection Activities; Proposed Collection; Comment Request; Extension",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995 (\"PRA\"), the Federal Trade Commission (\"FTC\" or \"Commission\") is seeking public comment on its proposal to extend for an additional three years the information collection requirements contained in the contained in the agency's Business Opportunity Rule (\"Rule\"). The current clearance expires on February 28, 2027.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24159/agency-information-collection-activities-proposed-collection-comment-request-extension"
+    },
+    {
+      "id": "9bae11dffa13",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Information Collection: Suspicious Activity Reporting Using the Protective Web Server",
+      "summary": "The U.S. Nuclear Regulatory Commission (NRC) has recently submitted a request for renewal of an existing collection of information to the Office of Management and Budget (OMB) for review. The information collection is entitled, \"Suspicious Activity Reporting Using the Protective Web Server.\"",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24158/information-collection-suspicious-activity-reporting-using-the-protective-web-server"
+    },
+    {
+      "id": "c606ea96c996",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Notice of Request for Extension of Currently Approved Information Collection",
+      "summary": "In accordance with the Paperwork Reduction Act of 1995, this notice announces the Foreign Agricultural Service's (FAS) and Commodity Credit Corporation's (CCC) intention to request an extension from the Office of Management and Budget (OMB) for a currently approved information collection process in support of the Foreign Market Development (FMD) Program and the Market Access Program (MAP).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24157/notice-of-request-for-extension-of-currently-approved-information-collection"
+    },
+    {
+      "id": "95fc3a58b314",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Fisheries of the Exclusive Economic Zone Off Alaska; Bering Sea and Aleutian Islands Management Area; 2026 Cost Recovery Fee Notice for the Western Alaska Community Development Quota and Trawl Limited Access Privilege Programs",
+      "summary": "NMFS publishes the 2026 standard prices and fee percentages for cost recovery for the Amendment 80 Program, the American Fisheries Act (AFA) Program, the Aleutian Islands Pollock (AIP) Program, and the Western Alaska Community Development Quota (CDQ) Program in the Bering Sea Aleutian Islands (BSAI) management area. The fee percentages for 2026 are 0.94 percent for the Amendment 80 Program, 0.46 percent for the AFA i",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24156/fisheries-of-the-exclusive-economic-zone-off-alaska-bering-sea-and-aleutian-islands-management-area"
+    },
+    {
+      "id": "c6eb6282dfb8",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Polytetramethylene Ether Glycol (PTMEG) From China, South Korea, Taiwan, and Vietnam; Scheduling of the Final Phase of Antidumping Duty Investigations; Correction",
+      "summary": "Corrections are made to the date the prehearing report will be placed on the nonpublic record; the deadline to request to appear at the hearing; the date of the prehearing conference; and the deadline for filing prehearing briefs.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24155/polytetramethylene-ether-glycol-ptmeg-from-china-south-korea-taiwan-and-vietnam-scheduling-of-the"
+    },
+    {
+      "id": "2a4eb5f10c9f",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Change in Bank Control Notices; Acquisitions of Shares of a Bank or Bank Holding Company",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24154/change-in-bank-control-notices-acquisitions-of-shares-of-a-bank-or-bank-holding-company"
+    },
+    {
+      "id": "13f15275700d",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Civil Penalties; Notice of Adjusted Maximum Amounts",
+      "summary": "In 1990, Congress enacted statutory amendments to adjust the maximum civil penalty amounts authorized under the Consumer Product Safety Act (CPSA), the Federal Hazardous Substances Act (FHSA), and the Flammable Fabrics Act (FFA). On August 14, 2008, the Consumer Product Safety Improvement Act of 2008 (CPSIA) increased the maximum civil penalty amounts to $100,000 for each violation and $15,000,000 for any related ser",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "high",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24153/civil-penalties-notice-of-adjusted-maximum-amounts"
+    },
+    {
+      "id": "f2776773e7bd",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "National Institute of Environmental Health Sciences; Notice of Meeting",
+      "summary": "Federal Register document (no abstract provided).",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24152/national-institute-of-environmental-health-sciences-notice-of-meeting"
+    },
+    {
+      "id": "cd3e16aa05c3",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Fisheries of the Caribbean; Southeast Data, Assessment, and Review; Public Meeting",
+      "summary": "The Southeast Data Assessment and Review (SEDAR) 103 assessment process of Caribbean Alternate Assessment Methods will consist of a Development Workshop, a series of Assessment Webinars, and a Review Workshop. See SUPPLEMENTARY INFORMATION.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24151/fisheries-of-the-caribbean-southeast-data-assessment-and-review-public-meeting"
+    },
+    {
+      "id": "7a947575798c",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Fisheries of the South Atlantic; Southeast Data, Assessment, and Review; Public Meeting",
+      "summary": "The Southeast Data Assessment and Review (SEDAR) 90 assessment process of South Atlantic Red Snapper will consist of a Data Workshop, a series of Assessment Webinars, and a Review Workshop. See SUPPLEMENTARY INFORMATION.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24150/fisheries-of-the-south-atlantic-southeast-data-assessment-and-review-public-meeting"
+    },
+    {
+      "id": "a6ee457ce198",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Heightened Import Disclosures for Supply Chain Visibility; Extension of Comment Period",
+      "summary": "This document announces that U.S. Customs and Border Protection (CBP) will extend the comment period for an additional 45 days for interested parties to submit comments on the advance notice of proposed rulemaking (ANPRM) regarding supply chain visibility. The ANPRM was published in the Federal Register on September 2, 2026, with comments due on or before December 1, 2026. To allow for as much public participation as",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "medium",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24149/heightened-import-disclosures-for-supply-chain-visibility-extension-of-comment-period"
+    },
+    {
+      "id": "b8dc5114e251",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Agency Information Collection Activities; Extension; Ship's Stores Declaration (CBP Form 1303)",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24148/agency-information-collection-activities-extension-ships-stores-declaration-cbp-form-1303"
+    },
+    {
+      "id": "a8671a504582",
+      "category": "LEGIS",
+      "date": "2026-11-27",
+      "title": "Agency Information Collection Activities; Revision; Exportation of Used Self-Propelled Vehicles",
+      "summary": "The Department of Homeland Security, U.S. Customs and Border Protection (CBP) will be submitting the following information collection request to the Office of Management and Budget (OMB) for review and approval in accordance with the Paperwork Reduction Act of 1995 (PRA). The information collection is published in the Federal Register to obtain comments from the public and affected agencies.",
+      "tags": [
+        "Federal Register"
+      ],
+      "priority": "low",
+      "source": "Federal Register",
+      "url": "https://www.federalregister.gov/documents/2026/11/27/2026-24147/agency-information-collection-activities-revision-exportation-of-used-self-propelled-vehicles"
+    }
+  ]
 }
